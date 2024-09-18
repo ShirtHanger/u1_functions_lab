@@ -1,0 +1,47 @@
+/home/jordanjc/.nvm/versions/node/v20.17.0/bin/node ./functions_exercise.js
+===================
+prompt 1
+===================
+Hello CajunSamursai!
+===================
+prompt 2
+===================
+Please log in
+===================
+prompt 3
+===================
+Lawn area: 600 sqft
+Sod rate: $1.45 per sqft
+Sod cost: $870
+Price for installation: $100
+-----
+Your budget: 700
+-----
+You need $270 more
+===================
+prompt 4
+===================
+Alice (Length: 5)
+Andy (Length: 4)
+Andrew (Length: 6)
+Casey (Length: 5)
+Damian (Length: 6)
+Emily (Length: 5)
+Emilie (Length: 6)
+Grant (Length: 5)
+Howie (Length: 5)
+Isabella (Length: 8)
+Kat (Length: 3)
+Kimbrad (Length: 7)
+Kiu (Length: 3)
+Natasha (Length: 7)
+Obi (Length: 3)
+Oscar (Length: 5)
+Pedro (Length: 5)
+Sarah (Length: 5)
+Scott (Length: 5)
+Tiffany (Length: 7)
+Umberto (Length: 7)
+Wade (Length: 4)
+Zhe (Length: 3)
+------
