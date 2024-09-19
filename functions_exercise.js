@@ -129,8 +129,6 @@ printStudents(students)
 
 
 
-
-
 // This function is being hoisted to top, splits outputs for easier reading for professors
 
 function splitPrompts(promptNum) {

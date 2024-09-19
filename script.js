@@ -1,17 +1,18 @@
 /* Used this file to write code before posting in file */
 
-const nums = [1, 3, 6, 9, 11, 15, 21, 25, 28, 30, 32, 34, 36, 40, 44, 45]
 
-const filterOdds = (nums) => { /**
+const newNums = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 
-    Use .filter to return an array of all odd numbers
-    The modulus % operator may be useful * */ }
+/**
+   * Use .reduce to return the total sum of each number to the 
+   * second power (what would PEMDAS say about this?)
+   */
 
-    const filterOdds = (nums) => {return nums.filter(nums =>
-        if ()
-    )}
+const sumSquareAllNums = newNums.reduce((sum, num) => {
+    return (sum + num) ** 2
+})
 
-// googled .filter
-// https://www.w3schools.com/jsref/jsref_filter.asp
+console.log(sumSquareAllNums)
 
-// Code is currently unfinished
+// This was the bonus, couldn't figure it out
+// Answer should be 2025
